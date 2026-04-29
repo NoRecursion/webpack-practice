@@ -1,0 +1,25 @@
+{
+  "name": "webpack-practice",
+  "version": "1.0.0",
+  "description": "Practice for setting up webpack with node and using gitignore",
+  "main": "duce.skip.txt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoRecursion/webpack-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/NoRecursion/webpack-practice/issues"
+  },
+  "homepage": "https://github.com/NoRecursion/webpack-practice#readme",
+  "devDependencies": {
+    "webpack": "^5.106.2",
+    "webpack-cli": "^7.0.2"
+  }
+}

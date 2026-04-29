@@ -2,3 +2,6 @@ notes.txt
 .vscode/
 .env
 *.skip.*
+
+node_modules/
+dist/
